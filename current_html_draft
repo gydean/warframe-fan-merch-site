@@ -1,0 +1,327 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+  	
+  	<!-- table style -->
+  	
+  	<!-- border: 1px solid green; -->
+  <style>
+  	table {
+  		width: 100%;
+	
+	}
+
+	td, th {
+	  border: 2px solid green;
+	  border-collapse: separate;
+	  border-radius: 10px;
+	  text-align: center;
+	  padding: 10px;
+	  align-content: center
+	
+	}
+	
+	div.gallery {
+		
+	}
+	
+	
+	div.gallery img {
+		width: 100%;
+		height: auto;
+	}
+	
+	* {
+		box-sizing: border-box;
+	}
+	
+	.responsive {
+		padding: 0 6px;
+		float: left;
+		width: 24.99999%;
+	}
+	
+	@media only screen and (max-width: 700px) {
+		.responsive {
+			width: 49.99999%;
+			margin: 6px 0;
+		}
+	}
+	
+	@media only screen and (max-width: 500px) {
+		.responsive {
+			width: 100%;
+		}
+	}
+	
+	.clearfix:after {
+		content: "";
+		display: table;
+		clear: both;
+	}
+	
+  	
+  	
+  </style>
+  	
+
+    <!-- Change your site title: (It is shown in the tab) -->
+    <title>RuinousLore's Website!!!</title>
+
+    <!-- Change your site description: (It is shown in Google results) -->
+    <meta content="ruinouslore's website!" name="ruinouslore" />
+
+    <!-- Setting character encoding and viewport size. Do not remove. -->
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <!-- FavIcon (small image in tab), change to any image you want: -->
+    <link href="favicon.ico" rel="icon" type="image/x-icon" />
+
+    <!-- CSS: -->
+    <!-- You will have to change this to "../style.css" if this HTML file is in a subfolder, to "../../style.css" if this HTML file is in 2 subfolders, etc. -->
+    <link href="./style.css" rel="stylesheet" />
+    
+
+    <script>
+      // Template generated with petrapixel's layout generator.
+      // (Please do not remove this credit.)
+      console.log("%cTemplate generated with petrapixel's layout generator: https://petrapixel.neocities.org/coding/layout-generator", "font-size: 14pt; color: #922a45; background: #ffd3ef");
+    </script>
+  </head>
+  <body>
+    <!-- The next line is a skip-to-content link for keyboard users. Do not remove it! -->
+    <a href="#content" id="skip-to-content-link">Skip to content</a>
+
+    <div class="layout">
+  
+      <!-- =============================================== -->
+      <!-- HEADER -->
+      <!-- =============================================== -->
+
+      <header>
+
+        <div class="header-content">
+	        
+	       	<!-- NAVIGATION -->
+	        <nav>
+	          <ul>
+	            <li><a href="/">Go Back to ruinouslore.nekoweb.org</a></li>
+	          </ul>
+	        </nav>
+  
+        </div>
+      </header>
+
+	  
+	
+ 
+  
+      <main id="content"> <!-- Do NOT remove the ID here -->
+
+        
+
+        <!-- =============================================== -->
+        <!-- MAIN CONTENT -->
+        <!-- =============================================== -->
+
+
+        <section>
+        	
+          <h1>Warframe Fan Merch Masterlist</h1>
+          <b><i>If you are on this list and want your information to be updated or removed, please use this form.</i></b>
+          
+          <p><b>*When it’s written a shop ships internationally, note that their shipping providers may have exceptions.
+          These exceptions tend to be countries in conflict, affected by natural disasters, strikes, etc.
+           Be aware of each creator’s shipping policies and your own country’s shipping situation before ordering.</b></p>
+          <p>Disclaimer: This list is made to make finding fan merch easier, no one is sponsered or endorsed on this page. Creator opinions are their own and not reflective of mine (vice versa).</p>
+          
+          <h2>Creators With Regular Warframe Merch </h2>
+          <table style="width:100%">
+          	
+          		<!-- column names -->
+          	<tr>
+          		<th>Name</th>
+          		<th>Based In</th>
+          		<th>Shops</th>
+          		<th>Ships To</th>
+          		<th>Known For</th>
+          	</tr>
+          	
+          	   	<!-- row 1 -->
+          	<tr>
+          		<td><a href="https://linktr.ee/LisellaWebster">LisellaWebster</a></td>
+          		<td>USA</td> <!-- based in -->
+          		<td><a href="https://www.etsy.com/shop/MonsterHuntersGuild">Etsy</a></td> <!-- shops -->
+          		<td>USA</td> <!-- ships to -->
+          		<td>enamel pins</td> <!-- known for -->
+          	</tr>
+          	
+          	   	<!-- row 2 -->
+          	<tr>
+          		<td><a href="https://linktr.ee/HolisticHiatus">HolisticHiatusArt</a></td>
+          		<td>USA</td> <!-- based in -->
+          		<td><a href="https://www.etsy.com/shop/HolisticHiatusArt">Etsy</a>/<a href="https://shop.holistichiatus.com/">Shop</a></td> <!-- shops -->
+          		<td>International</td> <!-- ships to -->
+          		<td>charms, enamel pins, stickers, standees</td> <!-- known for -->
+          	</tr>
+          	
+          	   	  <!-- row 3 -->
+          	<tr>
+          		<td>TheBestiaryArt</td>
+          		<td>UK</td> <!-- based in -->
+          		<td>Etsy</td> <!-- shops -->
+          		<td>International</td> <!-- ships to -->
+          		<td>enamel pins, stickers</td> <!-- known for -->
+          	</tr>
+          	
+          		  <!-- row 4 -->
+          	<tr>
+          		<td>TinyCoffeeBeanStudio</td>
+          		<td>USA</td> <!-- based in -->
+          		<td>Etsy</td> <!-- shops -->
+          		<td>USA (unsure on international)</td> <!-- ships to -->
+          		<td>stickers, prints</td> <!-- known for -->
+          	</tr>
+          	
+          		<!-- row 5 -->
+          	<tr>
+          		<td>OrokinBorn</td>
+          		<td>USA</td> <!-- based in -->
+          		<td>Etsy</td> <!-- shops -->
+          		<td>USA (unsure on international</td> <!-- ships to -->
+          		<td>keychains</td> <!-- known for -->
+          	</tr>
+          	
+          		<!-- row 6 -->
+          	<tr>
+          		<td>NewtDoesArts</td>
+          		<td>USA</td> <!-- based in -->
+          		<td>Etsy</td> <!-- shops -->
+          		<td>USA (unsure on international</td> <!-- ships to -->
+          		<td>button pins, keychains</td> <!-- known for -->
+          	</tr>
+          	
+          	      <!-- row 7 -->
+          	<tr>
+          		<td>ThePrintingPub</td>
+          		<td>USA</td> <!-- based in -->
+          		<td>Etsy</td> <!-- shops -->
+          		<td>USA (unsure on international</td> <!-- ships to -->
+          		<td>stickers</td> <!-- known for -->
+          	</tr>
+            
+                  <!-- row 8 -->
+          	<tr>
+          		<td>StuckToYouMerch</td>
+          		<td>USA</td> <!-- based in -->
+          		<td>Etsy</td> <!-- shops -->
+          		<td>International (except EU)</td> <!-- ships to -->
+          		<td>stickers, enamel pins</td> <!-- known for -->
+          	</tr> 
+          	
+                  <!-- row 9 -->
+          	<tr>
+          		<td>Yevvie</td>
+          		<td>?</td> <!-- based in -->
+          		<td>Etsy/FanMerch</td> <!-- shops -->
+          		<td>USA (unsure on international)</td> <!-- ships to -->
+          		<td>t-shirts, prints</td> <!-- known for -->
+          	</tr>       
+          	
+          	     <!-- row 10 -->
+          	<tr>
+          		<td>GrackleInkStudio</td>
+          		<td>USA</td> <!-- based in -->
+          		<td>Etsy</td> <!-- shops -->
+          		<td>USA</td> <!-- ships to -->
+          		<td>wooden pins, keychains, stickers</td> <!-- known for -->
+          	</tr>
+          	
+          </table>
+          
+          
+          <table>
+			  <tr>
+			    <td>
+			    <img src="https://cdn.bsky.app/img/avatar/plain/did:plc:cdblo3lidtpsltdczzomixhu/bafkreiexzmickcqmb23cgagapt2ss7ydrz5ifxtrv7mwxmtv6ymfmgaazy@jpeg" alt="grackie" style="width:75;height:75px;">
+			    <br><h3>GrackleInkStudio<br>~~~~~~~~</h3>
+			    
+			    <table style="align-items: center;">
+			    <tr>
+			    <td>based in: USA</td>
+			    <td>ships to: USA</td>
+			    <td>shop: <a href="https://www.grackleinkstudio.etsy.com">Etsy</a><br></td>
+			    <td>known for: wooden pins, keychains, stickers</td>
+			    
+			    </tr>
+			</table>
+	    
+    <h4>Shop Preview<br>~~~~~~~~</h4>
+    <p><i>example products may not be in stock</i></p>
+    
+    <!-- hex pin photo -->
+    <div class="responsive">
+    	<div class="gallery">
+    		<a target="_blank" href="https://grackleinkstudio.etsy.com/listing/1828561108">
+    			<img src="https://i.etsystatic.com/54394403/r/il/38323e/6550913157/il_1588xN.6550913157_9nm9.jpg" alt="Hex Wooden Pins by GrackleInkStudio on Etsy">
+    		</a>
+    	</div>
+    </div>
+    
+    <!-- jade shadow pin photo -->
+    <div class="responsive">
+    	<div class="gallery">
+    		<a target="_blank" href="https://grackleinkstudio.etsy.com/listing/4325813018">
+    			<img src="https://i.etsystatic.com/54394403/r/il/3a0110/7016102023/il_1588xN.7016102023_tqbi.jpg" alt="Jade Shadows Wooden Pin by GrackleInkStudio on Etsy">
+    		</a>
+    	</div>
+    </div>
+    
+        <!-- hex mini stickers photo -->
+    <div class="responsive">
+    	<div class="gallery">
+    		<a target="_blank" href="https://grackleinkstudio.etsy.com/listing/1875632448">
+    			<img src="https://i.etsystatic.com/54394403/r/il/d59c99/6724046340/il_1588xN.6724046340_ial1.jpg" alt="Protoframe Mini Stickers by GrackleInkStudio on Etsy">
+    		</a>
+    	</div>
+    </div>
+    
+    
+        <!-- dante keychain photo -->
+    <div class="responsive">
+    	<div class="gallery">
+    		<a target="_blank" href="https://grackleinkstudio.etsy.com/listing/1797903500">
+    			<img src="https://i.etsystatic.com/54394403/r/il/ee5985/6361235224/il_1588xN.6361235224_o5vt.jpg" alt="Dante Wooden Keychain by GrackleInkStudio on Etsy">
+    		</a>
+    	</div>
+    </div>
+    
+    <br><a href="https://www.grackleinkstudio.etsy.com"></a>
+    
+    </td>
+  </tr>
+  <tr>
+    <td>next creator</td>
+  </tr>
+</table>
+
+        </section>
+      </main>
+
+
+      <!-- =============================================== -->
+      <!-- FOOTER -->
+      <!-- =============================================== -->
+
+      <footer>
+            <div>Copyright RuinousLore/GrackleInk 2025. <a href="/">Link.</a> Template generated with <a href="https://petrapixel.neocities.org/coding/layout-generator.html">petrapixel's layout generator (ty!! <3)</a>.</div>
+      </footer>
+  
+    <!-- Closing .layout: -->
+    </div>
+
+
+    <!-- Add any additional Javascript code (<script></script>) here. -->
+  </body>
+</html>
